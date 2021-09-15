@@ -2,7 +2,7 @@
     "name": "wancr-investigator",
     "title": "WANCR Investigator",
     "description": "Investigator Class for D&D 5e by Mage Hand Press. Available Subclasses: Medium.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "TastyPig#0764",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
@@ -11,6 +11,18 @@
             "name": "investigator",
             "label": "Investigator",
             "path": "./packs/investigator.db",
+            "entity": "Item"
+        },
+		{
+            "name": "investigator-trinkets",
+            "label": "Investigator Trinkets",
+            "path": "./packs/investigator-trinkets.db",
+            "entity": "Item"
+        },
+		{
+            "name": "investigator-spells",
+            "label": "Investigator Spells",
+            "path": "./packs/investigator-spells.db",
             "entity": "Item"
         }
     ],
