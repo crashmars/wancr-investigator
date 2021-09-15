@@ -1,0 +1,20 @@
+{
+    "name": "wancr-investigator",
+    "title": "WANCR Investigator",
+    "description": "Investigator Class for D&D 5e by Mage Hand Press. Available Subclasses: Medium.",
+    "version": "1.0.0",
+    "author": "TastyPig#0764",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.9",
+    "packs": [
+        {
+            "name": "investigator",
+            "label": "Investigator",
+            "path": "./packs/investigator.db",
+            "entity": "Item"
+        }
+    ],
+	"url": "https://github.com/crashmars/wancr-investigator",
+    "manifest": "https://github.com/crashmars/wancr-investigator/releases/download/latest/module.json",
+    "download": "https://github.com/crashmars/wancr-investigator/releases/download/latest/module.zip"
+  }
